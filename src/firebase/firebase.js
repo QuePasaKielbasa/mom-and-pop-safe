@@ -8,7 +8,7 @@ const firebaseConfig = {
   storageBucket: "mom-and-pops.appspot.com",
   messagingSenderId: "325206697258",
   appId: "1:325206697258:web:e195e895d053f382a06a53",
-  measurementId: "G-53KGVZV0QT"
+  measurementId: "G-53KGVZV0QT",
 };
 
 const app = firebase.initializeApp(firebaseConfig);
